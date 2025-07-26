@@ -8,7 +8,7 @@ services:
       - 8081:80
       - 8443:443
     volumes:
-      - ./src/web-app-1/src:/var/www/html
+      - ./src/web-app-2/src:/var/www/html
       # - ./src/cgi-data:/var/www/cgi-data
     # environment:
     #   - PHP_INCLUDE_PATH=/var/www/Your_CGI_DATA

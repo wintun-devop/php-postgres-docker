@@ -1,0 +1,8 @@
+
+/* password match*/
+.success-message{
+    color:green
+}
+.error-message{
+    color: #dc3545;
+}
